@@ -1,0 +1,12 @@
+{
+  "location": "Amsterdam",
+  "weather": "sunny",
+  "temperature": 22,
+  "celsius": true,
+  "date": "2018-06-22",
+  "temp_forecast": [25, 26, 24, 20, 21, 22],
+  "wind": {
+    "direction": "SE",
+    "speed": 15
+  }
+}
